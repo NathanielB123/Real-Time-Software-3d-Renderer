@@ -1,6 +1,6 @@
 # Real-Time-Software-3d-Renderer
 
-A program I created for my EPQ "Creating a Real-time Software 3d Renderer in C#". The code is pretty much exactly as it was when I submitted it for my EPQ (just a couple changes so I could do my presentation within the 3d renderer program), if I add or change it significantly in the future I will create a new respository for the updated version.
+A program I created for my EPQ "Creating a Real-time Software 3d Renderer in C#". The code is pretty much exactly as it was when I submitted it for my EPQ (with just a couple changes I made for the presentation), if I add or change it significantly in the future I will create a new respository for the updated version.
 It is built entirely in C# and runs with no GPU acceleration (apart from the displaying of the final frame handled by WinForms) and supports quite a few modern rendering features including:
 * Diffuse and specular shading
 * Texture mapping and filtering
