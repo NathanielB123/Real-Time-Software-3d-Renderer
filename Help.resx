@@ -75,7 +75,7 @@ Scene 1 - Cube map reflections, skyboxes and depth blur
 Scene 2 - Real-time shadow-mapping and subsurface-scattering
 Scene 3 - Parallax mapping and screen-space reflections
 Scene 4 - Same but with normal-mapped wavy reflections
-Scene 5 - Fresnel
+Scene 5 - A quite high-poly count mesh and fresnel shading
 
 Note:
 Winforms image scaling is quite expensive  so I recommend not full-screening the window.</value>

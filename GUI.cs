@@ -48,5 +48,10 @@ namespace _3D_Renderer
             Task HelpThread = new Task(() => { Application.Run(HelpWindow); });
             HelpThread.Start();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button1_Click(sender, e);
+        }
     }
 }
