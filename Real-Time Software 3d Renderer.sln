@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Real-Time Software 3d Renderer", "Real-Time Software 3d Renderer.csproj", "{F2568BAE-D81A-4AE5-A97C-7B56331E08ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92D95ECB-6B2B-46F2-A68B-079829F546B4}"
+	ProjectSection(SolutionItems) = preProject
+		App.cs = App.cs
+		Arr2D.cs = Arr2D.cs
+		Bary.cs = Bary.cs
+		Built-inOverrides.cs = Built-inOverrides.cs
+		Camera.cs = Camera.cs
+		Colour.cs = Colour.cs
+		CubeMap.cs = CubeMap.cs
+		DeferredShaders.cs = DeferredShaders.cs
+		DirectionalLight.cs = DirectionalLight.cs
+		GUI.cs = GUI.cs
+		GUI.Designer.cs = GUI.Designer.cs
+		GUI.resx = GUI.resx
+		Help.cs = Help.cs
+		Help.Designer.cs = Help.Designer.cs
+		Help.resx = Help.resx
+		InputHandler.cs = InputHandler.cs
+		JaggedArr.cs = JaggedArr.cs
+		Light.cs = Light.cs
+		Material.cs = Material.cs
+		Matrix.cs = Matrix.cs
+		Mesh.cs = Mesh.cs
+		PixelShaders.cs = PixelShaders.cs
+		PointLight.cs = PointLight.cs
+		PostProcessShaders.cs = PostProcessShaders.cs
+		Quat.cs = Quat.cs
+		Rasteriser.cs = Rasteriser.cs
+		Real-Time Software 3d Renderer.csproj = Real-Time Software 3d Renderer.csproj
+		Real-Time Software 3d Renderer.csproj.user = Real-Time Software 3d Renderer.csproj.user
+		Renderer.cs = Renderer.cs
+		Scene.cs = Scene.cs
+		SceneObject.cs = SceneObject.cs
+		Start.cs = Start.cs
+		Surface.cs = Surface.cs
+		TexelShiftShaders.cs = TexelShiftShaders.cs
+		TriDouble.cs = TriDouble.cs
+		TriMat.cs = TriMat.cs
+		TriVec2D.cs = TriVec2D.cs
+		TriVec3D.cs = TriVec3D.cs
+		Vec2D.cs = Vec2D.cs
+		Vec3D.cs = Vec3D.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2568BAE-D81A-4AE5-A97C-7B56331E08ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2568BAE-D81A-4AE5-A97C-7B56331E08ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2568BAE-D81A-4AE5-A97C-7B56331E08ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2568BAE-D81A-4AE5-A97C-7B56331E08ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7004A5-4FF4-4DEA-AC27-15E11C701D5C}
+	EndGlobalSection
+EndGlobal
