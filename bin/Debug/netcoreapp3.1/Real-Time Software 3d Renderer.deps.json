@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Real-Time Software 3d Renderer/1.0.0": {
+        "runtime": {
+          "Real-Time Software 3d Renderer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Real-Time Software 3d Renderer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

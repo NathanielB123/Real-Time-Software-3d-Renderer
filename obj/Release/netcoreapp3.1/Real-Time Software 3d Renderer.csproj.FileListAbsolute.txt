@@ -1,0 +1,35 @@
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.exe
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.deps.json
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.runtimeconfig.json
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.runtimeconfig.dev.json
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.dll
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.pdb
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\_3D_Renderer.GUI.resources
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\_3D_Renderer.Help.resources
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\_Application_Namespace.Properties.Resources.resources
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.csproj.GenerateResource.cache
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.AssemblyInfoInputs.cache
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.AssemblyInfo.cs
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.csproj.CoreCompileInputs.cache
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.dll
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.pdb
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.genruntimeconfig.cache
+D:\Nathaniel Burke\Desktop\C# tests\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.csprojAssemblyReference.cache
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.exe
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.deps.json
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.runtimeconfig.json
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.runtimeconfig.dev.json
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.dll
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\bin\Release\netcoreapp3.1\Real-Time Software 3d Renderer.pdb
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.csproj.AssemblyReference.cache
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\_3D_Renderer.GUI.resources
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\_3D_Renderer.Help.resources
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\_Application_Namespace.Properties.Resources.resources
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.csproj.GenerateResource.cache
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.AssemblyInfoInputs.cache
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.AssemblyInfo.cs
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.csproj.CoreCompileInputs.cache
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.dll
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.pdb
+C:\Dev\Random C# Programs\Real-Time Software 3d Renderer (C# 8.0)\Real-Time Software 3d Renderer\obj\Release\netcoreapp3.1\Real-Time Software 3d Renderer.genruntimeconfig.cache
